@@ -1,0 +1,2 @@
+BOTNAME = "play_market1_uz_bot"
+TOKEN = "5833580831:AAE0kms49avB-qIvr8V0GEDdKxZNJGkR5Dw"
